@@ -1,0 +1,12 @@
+﻿Build started 11/04/2019 11:08:02.
+     1>Project "E:\grafkom\prak1\prak1\prak1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\prak1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\prak1.unsuccessfulbuild".
+         Touching "Debug\prak1.lastbuildstate".
+     1>Done Building Project "E:\grafkom\prak1\prak1\prak1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
