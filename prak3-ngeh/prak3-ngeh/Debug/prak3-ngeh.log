@@ -1,0 +1,24 @@
+﻿Build started 28/03/2019 11:11:14.
+     1>Project "E:\grafika-ngeh\prak3-ngeh\prak3-ngeh\prak3-ngeh.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\prak3-ngeh.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\grafika-ngeh\prak3-ngeh\prak3-ngeh" /I"E:\grafika-ngeh\prak3-ngeh\OpenGL" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "prak3-ngeh.cpp"
+         prak3-ngeh.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\grafika-ngeh\prak3-ngeh\Debug\prak3-ngeh.exe" /NOLOGO /LIBPATH:"E:\grafika-ngeh\prak3-ngeh\OpenGL" "- glu32.dll" "- glut32.dll" "- opengl32.dll" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\prak3-ngeh.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\grafika-ngeh\prak3-ngeh\Debug\prak3-ngeh.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\grafika-ngeh\prak3-ngeh\Debug\prak3-ngeh.lib" /MACHINE:X86 "Debug\prak3-ngeh.obj"
+     1>LINK : warning LNK4044: unrecognized option '/ glu32.dll'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/ glut32.dll'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/ opengl32.dll'; ignored
+         LINK : E:\grafika-ngeh\prak3-ngeh\Debug\prak3-ngeh.exe not found or not built by the last incremental link; performing full link
+         prak3-ngeh.vcxproj -> E:\grafika-ngeh\prak3-ngeh\Debug\prak3-ngeh.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\grafika-ngeh\prak3-ngeh\Debug\prak3-ngeh.exe;#1" /manifest "Debug\prak3-ngeh.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\prak3-ngeh.unsuccessfulbuild".
+         Touching "Debug\prak3-ngeh.lastbuildstate".
+     1>Done Building Project "E:\grafika-ngeh\prak3-ngeh\prak3-ngeh\prak3-ngeh.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.58
